@@ -1,0 +1,7 @@
+mode文件夹下对应rabbitmq官网各种模式:
+
+simple==="Hello World!"
+work===Work queues
+fanout===Publish/Subscribe
+routing===Routing
+topic===Topics
